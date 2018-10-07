@@ -286,7 +286,6 @@ data/mclab/Huy95.png
 data/mclab/Huy96.png
 data/mclab/Huy97.png
 data/mclab/Huy98.png
-data/mclab/Lam100.png
 data/mclab/Lam104.png
 data/mclab/Lam105.png
 data/mclab/Lam106.png
